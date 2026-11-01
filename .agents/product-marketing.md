@@ -9,7 +9,7 @@
 **What it does:** Managed finance (bookkeeping, accounting, monthly reporting), fractional CFO, internal audit and controls, ERP selection and implementation (vendor-independent; Odoo and ERPNext practices), business valuation, Islamic finance advisory, investor readiness and due-diligence support, and training (Financial Leadership Workshop with CCIFE).
 **Product category:** Managed finance services / fractional CFO.
 **Business model:** Monthly retainers (operations), annual programmes (internal audit), project and retainer mix (advisory, ERP, valuation), workshops (training).
-**Brand name:** Axcell / «أكسل». Use "Axcell Financial Consulting" / «أكسل للاستشارات المالية» (from 1 Nov 2026). Legal entity: Axcell Business Services Co. (legal documents only). Never use "Business Services" in marketing.
+**Brand name:** Axcell / «أكسل». Use "Axcell Financial Consulting" / «أكسل للاستشارات المالية» (from 1 Nov 2026). This is also the registered company name. "Axcell Business Services" was an old online name; never use it.
 **Founder:** Hazem Kassem, 25+ years of CFO experience.
 **Website:** axcellservice.com · info@axcellservice.com
 
