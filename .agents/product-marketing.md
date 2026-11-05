@@ -1,7 +1,7 @@
 # Product Marketing Context
 
 **Document version:** v1
-**Last updated:** 31 Oct 2026
+**Last updated:** 5 Nov 2026
 **Source of truth for content rules:** Notion page "Content Strategy: Thought Leadership" (its "Updated" box overrides this file).
 
 ## Product Overview
@@ -11,6 +11,7 @@
 **Business model:** Monthly retainers (operations), annual programmes (internal audit), project and retainer mix (advisory, ERP, valuation), workshops (training).
 **Brand name:** Axcell / «أكسل». Use "Axcell Financial Consulting" / «أكسل للاستشارات المالية» (from 1 Nov 2026). This is also the registered company name. "Axcell Business Services" was an old online name; never use it.
 **Founder:** Hazem Kassem, 25+ years of CFO experience.
+**Positioning (personal brand, approved 5 Nov 2026):** "Your CFO partner: Clear Decisions, Strong Growth." / «شريكك المالي: قرار أوضح… ونمو أقوى». Hazem is the CFO who partners with owners, sheds light on their decisions and helps them grow.
 **Website:** axcellservice.com · info@axcellservice.com
 
 ## Markets
